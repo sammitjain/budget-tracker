@@ -7,7 +7,8 @@ Google Sheets + Forms Setup to track expenses quickly and effectively without ot
 <img src="https://user-images.githubusercontent.com/29622482/185693437-cad54fc0-ceae-42c6-bfa4-c69f5e3e8df8.jpeg" alt="mobile_UX" width=195><img src="https://user-images.githubusercontent.com/29622482/185695489-b4b2ec49-4173-4e82-8520-7459e2d84221.png" alt="dashboard" width=550>
 
 
-## Google Sheets ([Link to view sheet](https://docs.google.com/spreadsheets/d/1Xk02BzBike5RoEALE8rTHT_TwGrNbB3R-vG-iaO8-ek/edit?usp=sharing))
+## Google Sheets ([Link to view spreadsheet](https://docs.google.com/spreadsheets/d/1Xk02BzBike5RoEALE8rTHT_TwGrNbB3R-vG-iaO8-ek/edit?usp=sharing))
+Check out different tracking sheets. If you'd like to use this same sheet as a template, follow along. If you were just looking for some inspiration, feel free to integrate things you like here into your own personal finance management system.
 
 ## Google Forms ([Link to create your own copy](https://docs.google.com/forms/d/1BUTJ5y90_NdvGrV6U8_6c_3iX_fNs5TJnn1VZxLLst0/copy))
 The complete form is also shared as a PDF in the samples folder.
