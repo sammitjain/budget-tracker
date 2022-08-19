@@ -4,7 +4,7 @@ Google Sheets + Forms Setup to track expenses quickly and effectively without ot
 - Google Form to quickly record expenses (and income).
 - Both of these are web-based environments and therefore work super well as app-like shortcuts on your mobile homescreen.
 
-<img src="https://user-images.githubusercontent.com/29622482/185693437-cad54fc0-ceae-42c6-bfa4-c69f5e3e8df8.jpeg" alt="mobile_UX" width=220><img src="https://user-images.githubusercontent.com/29622482/185695489-b4b2ec49-4173-4e82-8520-7459e2d84221.png" alt="dashboard" width=610>
+<img src="https://user-images.githubusercontent.com/29622482/185693437-cad54fc0-ceae-42c6-bfa4-c69f5e3e8df8.jpeg" alt="mobile_UX" width=195><img src="https://user-images.githubusercontent.com/29622482/185695489-b4b2ec49-4173-4e82-8520-7459e2d84221.png" alt="dashboard" width=550>
 
 
 ## Google Sheets ([Link to view sheet](https://docs.google.com/spreadsheets/d/1Xk02BzBike5RoEALE8rTHT_TwGrNbB3R-vG-iaO8-ek/edit?usp=sharing))
