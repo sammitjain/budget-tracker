@@ -4,9 +4,10 @@ Google Sheets + Forms Setup to track expenses quickly and effectively without ot
 - Google Form to quickly record expenses (and income).
 - Both of these are web-based environments and therefore work super well as app-like shortcuts on your mobile homescreen.
 
+<img src="https://user-images.githubusercontent.com/29622482/185693437-cad54fc0-ceae-42c6-bfa4-c69f5e3e8df8.jpeg" alt="mobile_UX" width=250>   <img src="https://user-images.githubusercontent.com/29622482/185695489-b4b2ec49-4173-4e82-8520-7459e2d84221.png" alt="dashboard" width=700>
+
+
 ## Google Sheets ([Link to view sheet](https://docs.google.com/spreadsheets/d/1Xk02BzBike5RoEALE8rTHT_TwGrNbB3R-vG-iaO8-ek/edit?usp=sharing))
-This is what the overall Dashboard looks like. More samples (images) in the samples folder.
-![image](https://user-images.githubusercontent.com/29622482/185658089-6b46b98d-db95-4ffe-a303-f7c6e11ee3de.png)
 
 ## Google Forms ([Link to create your own copy](https://docs.google.com/forms/d/1BUTJ5y90_NdvGrV6U8_6c_3iX_fNs5TJnn1VZxLLst0/copy))
 The complete form is also shared as a PDF in the samples folder.
@@ -17,27 +18,27 @@ The complete form is also shared as a PDF in the samples folder.
   * Open the google sheet using [this link](https://docs.google.com/spreadsheets/d/1Xk02BzBike5RoEALE8rTHT_TwGrNbB3R-vG-iaO8-ek/edit?usp=sharing).
   * `File -> Make a copy`
 
-  ![step1](https://user-images.githubusercontent.com/29622482/185689092-50007366-7267-4131-8163-cf7b74f1f27e.png)
+  <img src="https://user-images.githubusercontent.com/29622482/185689092-50007366-7267-4131-8163-cf7b74f1f27e.png" width=500>
 
   * Note: This option is only accessible when you're logged into your Drive account.
   * The Form [link](https://docs.google.com/forms/d/1BUTJ5y90_NdvGrV6U8_6c_3iX_fNs5TJnn1VZxLLst0/copy) should directly suggest creating a copy once logged in.
 
-  ![step2](https://user-images.githubusercontent.com/29622482/185689230-48877933-4e33-4c68-9205-e72c585b352e.png)
+  <img src="https://user-images.githubusercontent.com/29622482/185689230-48877933-4e33-4c68-9205-e72c585b352e.png" width=500>
 
 * It's time to link your `form` to the `spreadsheet`.
   * Open your copy of the Form, head to the `Responses` tab, click on the green `Create Spreadsheet` button
 
-  ![step3](https://user-images.githubusercontent.com/29622482/185689449-679f48dc-23fa-486b-9934-8004016b163e.png)
+  <img src="https://user-images.githubusercontent.com/29622482/185689449-679f48dc-23fa-486b-9934-8004016b163e.png" width=500>
 
   * Here, choose your copy of the Google `spreadsheet` in the Drive.
   * We're almost there.
 * If you look at your `spreadsheet` closely, it now has a new sheet called `Form Responses`. This is the one we'll link to the back-end.
 
-  ![step6](https://user-images.githubusercontent.com/29622482/185689579-2aaaaee7-0af7-4018-b490-6068dbcac159.png)
+  <img src="https://user-images.githubusercontent.com/29622482/185689579-2aaaaee7-0af7-4018-b490-6068dbcac159.png" width=400>
 
   * Rename this sheet to something simpler like `res` (I'm avoiding using `responses` because it's already there)
 
-  ![step7](https://user-images.githubusercontent.com/29622482/185689644-a2f65c4d-0353-46f5-abed-fbaf00b5443d.png)
+  <img src="https://user-images.githubusercontent.com/29622482/185689644-a2f65c4d-0353-46f5-abed-fbaf00b5443d.png" width=300>
 
   * Head over to the sheet called `_responses` and in the first cell `A1`, change the formula to `=ARRAYFORMULA(res!A:I)`
 
@@ -49,9 +50,6 @@ The complete form is also shared as a PDF in the samples folder.
 ![step9](https://user-images.githubusercontent.com/29622482/185689718-2e715539-6bef-469a-9143-5647b06773f9.png)
 
   * Open your form and fill out your first expense. (you can also click on the preview button and then fill it there)
-
-  ![step10](https://user-images.githubusercontent.com/29622482/185689787-3cbea15b-407b-46e3-965b-4461119acac6.png)
-
   * This should populate the sheet as expected
 
   ![step11](https://user-images.githubusercontent.com/29622482/185689843-d56df56a-8850-4b8e-a82b-c2d094bb05f3.png)
