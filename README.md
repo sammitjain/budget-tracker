@@ -15,4 +15,3 @@ The complete form is also shared as a PDF in the samples folder.
   * Create a copy of the Sheet in your Google Drive. (File -> Make a copy)
   * Note: This option is only accessible when you're logged into your Drive account.
   * The Form link should directly suggest creating a copy once logged in.
-* 
