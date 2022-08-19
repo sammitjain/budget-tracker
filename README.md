@@ -31,6 +31,6 @@ The complete form is also shared as a PDF in the samples folder.
   * This should populate the sheet as expected
 * Once the sheet+form setup is working, go ahead and customize the options in the google form, names of your credit cards, your spending categories, etc.
   * Note: Do remember that changing the sequence / number of questions in the form will affect everything! If doing this, be careful, and always make sure to check that the filters are using the correct column sequences.
-  * Happy Tracking!
+* Happy Tracking!
 
 
