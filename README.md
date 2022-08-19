@@ -59,4 +59,6 @@ The complete form is also shared as a PDF in the samples folder.
   * Note: Do remember that changing the sequence / number of questions in the form will affect everything! If doing this, be careful, and always make sure to check that the filters are using the correct column sequences.
 * Happy Tracking!
 
+If you found this helpful, I look forward to hearing from you. Always up for a coffee @ https://ko-fi.com/sammitjain :)
+
 
