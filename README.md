@@ -70,6 +70,12 @@ A potential solution is setting up *Siri* to guide me through the form filling p
 The best part - this works hands-free, so it's easy to track expenses while you're on the move.
 The template for this isn't quite ready yet but it's can be set up if you know your way around Forms + Siri Shortcuts. I'll share a more user-friendly template soon.
 
+### Get Siri Shortcuts to work right away
+* Download my `.shortcut` file and import into Siri Shortcuts.
+* Get a pre-filled URL to your Google Form. It will look similar to the one inside the shortcut
+* Separate out various elements and update entry IDs inside the shortcut
+* This might take some effort right out the box
+
 If you found this helpful, I look forward to hearing from you. Always up for a coffee. 
 
 <a href='https://ko-fi.com/sammitjain' target='_blank'><img height='35' style='border:0px;height:36px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
