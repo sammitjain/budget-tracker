@@ -1,4 +1,5 @@
 # budget-tracker
+
 Google Sheets + Forms Setup to track expenses quickly and effectively without other 3rd party apps/dependencies. Keep track of Income/Expense of different kinds, Credit Card usage, Budget targets all in one spreadsheet. Here's how this works  
 - Google Sheets to track and maintain expenses (and income).
 - Google Form to quickly record expenses (and income).
@@ -59,6 +60,9 @@ The complete form is also shared as a PDF in the samples folder.
   * Note: Do remember that changing the sequence / number of questions in the form will affect everything! If doing this, be careful, and always make sure to check that the filters are using the correct column sequences.
 * Happy Tracking!
 
-If you found this helpful, I look forward to hearing from you. Always up for a coffee @ https://ko-fi.com/sammitjain :)
+If you found this helpful, I look forward to hearing from you. Always up for a coffee. 
+
+<a href='https://ko-fi.com/sammitjain' target='_blank'><img height='35' style='border:0px;height:36px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
+
 
 
