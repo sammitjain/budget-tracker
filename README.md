@@ -1,4 +1,4 @@
-# budget-tracker
+# Budget Tracking with Google Sheets, Google Forms, Siri Shortcuts (WIP)
 
 Google Sheets + Forms Setup to track expenses quickly and effectively without other 3rd party apps/dependencies. Keep track of Income/Expense of different kinds, Credit Card usage, Budget targets all in one spreadsheet. Here's how this works  
 - Google Sheets to track and maintain expenses (and income).
@@ -7,6 +7,7 @@ Google Sheets + Forms Setup to track expenses quickly and effectively without ot
 
 <img src="https://user-images.githubusercontent.com/29622482/185693437-cad54fc0-ceae-42c6-bfa4-c69f5e3e8df8.jpeg" alt="mobile_UX" width=195>  <img src="https://user-images.githubusercontent.com/29622482/185695489-b4b2ec49-4173-4e82-8520-7459e2d84221.png" alt="dashboard" width=550>
 
+<img src="https://user-images.githubusercontent.com/29622482/185752191-14ee30a8-a86c-4a2b-8165-6d5c936d5294.png" alt="siri_integration" width=200> <img src="https://user-images.githubusercontent.com/29622482/185752253-b64977ad-3a83-4aec-9a8d-186b56bdf6a5.png" alt="siri_integration" width=200> <img src="https://user-images.githubusercontent.com/29622482/185752261-4c5bd382-50c5-427c-961d-2d13b029b9fe.png" alt="siri_integration" width=200> <img src="https://user-images.githubusercontent.com/29622482/185752262-4c9499a6-0e86-4e59-a92c-7e494f46c437.png" alt="siri_integration" width=200>
 
 ## Google Sheets ([Link to view spreadsheet](https://docs.google.com/spreadsheets/d/1Xk02BzBike5RoEALE8rTHT_TwGrNbB3R-vG-iaO8-ek/edit?usp=sharing))
 Check out different tracking sheets. If you'd like to use this same sheet as a template, follow along. If you were just looking for some inspiration, feel free to integrate things you like here into your own personal finance management system.
@@ -60,7 +61,7 @@ The complete form is also shared as a PDF in the samples folder.
   * Note: Do remember that changing the sequence / number of questions in the form will affect everything! If doing this, be careful, and always make sure to check that the filters are using the correct column sequences.
 * Happy Tracking!
 
-## Bonus: Siri + Work in Progress
+## Bonus: Siri (WIP)
 Filling out the form too frequently can become cumbersome and that is one of the major drawbacks of a system like this one. 
 A potential solution is setting up *Siri* to guide me through the form filling process - this is much more User Friendly than scrolling/clicking/typing inside the browser. Here's the [video](https://drive.google.com/file/d/1f9f0Est9_7SU09_xNYFyNJKLnQpAuooh/view?usp=sharing) of this in action. Some screenshots:
 
